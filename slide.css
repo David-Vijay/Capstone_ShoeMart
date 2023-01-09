@@ -1,0 +1,14 @@
+#img{
+    margin-top:27%;
+    padding: 10%;
+    
+span{
+    margin-left:20px;
+}
+}
+section{
+    background: rgb(0,212,255);
+background: linear-gradient(56deg, rgba(0,212,255,1) 0%, rgba(6,0,36,1) 0%, rgba(72,102,58,1) 0%, rgba(16,20,40,1) 0%, rgba(2,0,36,1) 7%, rgba(54,48,167,1) 100%, rgba(7,201,235,1) 100%, rgba(2,0,36,1) 100%);
+
+}
+
